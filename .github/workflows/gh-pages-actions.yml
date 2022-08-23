@@ -2,8 +2,7 @@ name: gh-pages documentation continuous integrations
 on:
   push:
     branches:
-      - master
-      - main
+      - documentation
 jobs:
   deploy:
     runs-on: ubuntu-latest

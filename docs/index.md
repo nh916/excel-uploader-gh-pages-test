@@ -130,7 +130,7 @@ Please use the latest release assets
     Create a <b>Project</b> inside the <a href="https://www.criptapp.org/project">CRIPT platform</a>
     <ul>
       <li>
-      The entire <span style="color: #21a366">Excel</span> file will become a collection within the CRIPT Platform
+        Each Collection belongs to a Project
       </li>
     </ul>
   </li>
