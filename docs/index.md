@@ -130,7 +130,7 @@ Please use the latest release assets
     Create a <b>Project</b> inside the <a href="https://www.criptapp.org/project">CRIPT platform</a>
     <ul>
       <li>
-        Each Collection belongs to a Project
+        A Project is needed because each Collection belongs to a Project
       </li>
     </ul>
   </li>
