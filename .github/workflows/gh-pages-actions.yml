@@ -2,7 +2,7 @@ name: gh-pages documentation continuous integrations
 on:
   push:
     branches:
-      - master 
+      - master
       - main
 jobs:
   deploy:
