@@ -1417,7 +1417,17 @@ Define the data sets you will be associating with properties, etc.
       My type
     </td>
     <td class="row-4" style="font-size: 0.8rem;">
-      C:\Users\myUsername\Desktop\MIT\cript-excel-uploader\example_template_v0-3-1.xlsx
+        <b>Can be either local:</b>
+        <br>
+        <em>
+            C:\Users\myUsername\Desktop\MIT\cript-excel-uploader\example_template_v0-3-1.xlsx
+        </em>
+        <br> <br>
+        <b>Or on the web: </b>
+        <br>
+        <em>
+            https://google.com
+        </em>
     </td>
   </tr>
 </table>
