@@ -458,7 +458,7 @@ alt="Screenshot from Excel sheet column that shows multiple field headers">
 through an experiment, and later use nesting to record more details.
 
 If there are multiple densities throughout time, and we want to show each of their temperature (or any other
-property) we can use an `Id` field to differentiate between the different temperatures. We denote an `Id` with brackets
+condition) we can use an `Id` field to differentiate between the different temperatures. We denote an `Id` with brackets
 and a number inside such as [1] or [2]. The `Id` is used to identify distinct properties/conditions of the same type
 
 - e.g., To identify two density measurements at two different temperatures, we could create the following column

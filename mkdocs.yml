@@ -4,7 +4,7 @@ repo_url: https://github.com/C-Accel-CRIPT/cript-excel-uploaders
 repo_name: C-Accel-CRIPT/cript-excel-uploader
 
 theme:
-  name: material
+  name: readthedocs
   palette:
     primary: deep purple
     accent: deep purple
