@@ -6,6 +6,9 @@
 <img src="./docs_assets/screenshot_of_where_to_find_excel_uploader.png"
 alt="Screenshot of Material sheet rows and columns">
 
+![alt text](./docs_assets/screenshot_of_where_to_find_excel_uploader.png)
+
+
 The Row 1 - 3 within each <span style="color: var(--excel-light-color)">Excel</span>
 sheet are treated differently than Rows 4 - ∞.
 
