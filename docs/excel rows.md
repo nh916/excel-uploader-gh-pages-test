@@ -3,7 +3,7 @@
 
 ## <b> <span class="row-1">Row 1</span> <span class="row-2">Row 2</span> <span class="row-3" style="font-weight: normal;">Row 3</span> </b>
 
-<img src="./docs_assets/screenshot_of_where_to_find_excel_uploader.png" alt="Screenshot of Material sheet rows and columns">
+<img src="../docs_assets/screenshot_of_where_to_find_excel_uploader.png" alt="Screenshot of Material sheet rows and columns">
 
 ![alt text](./docs_assets/screenshot_of_excel_sheets.png)
 
