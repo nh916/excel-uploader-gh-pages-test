@@ -1,5 +1,1 @@
-# CRIPT Excel Uploader
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)  
-
-
-Please refer to the <a href="">CRIPT Excel Uploader documentation</a>
+# Created CD for MKDocs Material to autodeploy to `gh-pages` branch to show the documentation website on GitHub pages
